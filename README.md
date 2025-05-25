@@ -2,7 +2,7 @@
 
 **Pokemon Home Style Half Shiny 128x128 + Sparkles**<br />
 URL: `https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Half_Shiny_Sparkle_128`<br />
-Example: hhttps://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Half_Shiny_Sparkle_128/pokemon/150_f133_s.png<br />
+Example: https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Half_Shiny_Sparkle_128/pokemon/150_f133_s.png<br />
 ![150](https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Half_Shiny_Sparkle_128/pokemon/150_f133.png)
 ![150](https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Half_Shiny_Sparkle_128/pokemon/150_f133_a1.png)
 ![150](https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Half_Shiny_Sparkle_128/pokemon/150_f133_s.png)
@@ -13,7 +13,7 @@ Example: hhttps://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/m
 
 **Pokemon Home Style Half Shiny 512x512 + Sparkles**<br />
 URL: `https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Half_Shiny_Sparkle_512`<br />
-Example: hhttps://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Half_Shiny_Sparkle_512/150_f133_s.png<br />
+Example: https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Half_Shiny_Sparkle_512/150_f133_s.png<br />
 
 
 **Pokemon Home Style Half Shiny 128x128**<br />
@@ -28,12 +28,12 @@ Example: hhttps://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/m
 
 **Pokemon Home Style Half Shiny 512x512**<br />
 URL: `https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Half_Shiny_512/`<br />
-Example: hhttps://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Half_Shiny_512/pokemon/150_f133_s.png<br />
+Example: https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Half_Shiny_512/pokemon/150_f133_s.png<br />
 
 
 **Pokemon Home Style Full Shiny 128x128 + Sparkles**<br />
 URL: `https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Full_Shiny_Sparkle_128/`<br />
-Example: hhttps://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Full_Shiny_Sparkle_128/pokemon/150_f133_s.png<br />
+Example: https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Full_Shiny_Sparkle_128/pokemon/150_f133_s.png<br />
 ![150](https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Full_Shiny_Sparkle_128/pokemon/150_f133.png)
 ![150](https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Full_Shiny_Sparkle_128/pokemon/150_f133_a1.png)
 ![150](https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Full_Shiny_Sparkle_128/pokemon/150_f133_s.png)
@@ -43,7 +43,7 @@ Example: hhttps://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/m
 
 **Pokemon Home Style Full Shiny 512x512 + Sparkles**<br />
 URL: `https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Full_Shiny_Sparkle_512/`<br />
-Example: hhttps://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Full_Shiny_Sparkle_512/pokemon/150_f133_s.png<br />
+Example: https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Full_Shiny_Sparkle_512/pokemon/150_f133_s.png<br />
 
 
 Credits:<br />

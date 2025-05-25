@@ -42,8 +42,8 @@ Example: hhttps://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/m
 ![150](https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Full_Shiny_Sparkle_512/pokemon/68_b2_s.png)
 
 **Pokemon Home Style Full Shiny 128x128 + Sparkles**<br />
-URL: `https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/_Full_Shiny_Sparkle_128/`<br />
-Example: hhttps://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/_Full_Shiny_Sparkle_128/pokemon/150_f133_s.png<br />
+URL: `https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Full_Shiny_Sparkle_128/`<br />
+Example: hhttps://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Full_Shiny_Sparkle_128/pokemon/150_f133_s.png<br />
 
 
 Credits:<br />

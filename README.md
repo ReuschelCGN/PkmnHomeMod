@@ -1,4 +1,5 @@
 # PkmnHomeMod
+Pokémon Home style Icons for various Pokémon Go Map and Bot Projects
 
 **Pokemon Home Style Half Shiny 128x128 + Sparkles**<br />
 URL: `https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod/refs/heads/main/UICONS_Half_Shiny_Sparkle_128`<br />
